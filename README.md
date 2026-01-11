@@ -52,4 +52,4 @@ To run this project on your local machine:
 
    ```bash
 
-git clone https://github.com/aysetugbapekoz/alku-sss-asistan.git
+git clone https://github.com/aysetugbapekoz/alku-sss-asistan.git 
