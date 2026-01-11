@@ -1,4 +1,4 @@
-şimdi bir dakika # 🎓 ALKU Academic Assistant (FAQ Chatbot)
+ 🎓 ALKU Academic Assistant (FAQ Chatbot)
 
 
 
